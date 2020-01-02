@@ -9,3 +9,6 @@ Cite:
 M. A. I. Talukder, S. Abujar, A. K. M. Masum, F. Faisal and S. A. Hossain, "Bengali abstractive text summarization using sequence to sequence RNNs," 2019 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Kanpur, India, 2019, pp. 1-5.
 
 Link: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8944839&isnumber=8944341
+
+# Dataset
+https://drive.google.com/open?id=18U-PS-UI0O0GHsv2djQnQIA11XNeAkwm
